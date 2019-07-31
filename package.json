@@ -1,0 +1,20 @@
+{
+  "name": "practice_npm_package_shekhar",
+  "version": "0.0.1",
+  "description": "A practice NPM package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shekhardevnath/practice_npm_package_shekhar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shekhardevnath/practice_npm_package_shekhar/issues"
+  },
+  "homepage": "https://github.com/shekhardevnath/practice_npm_package_shekhar#readme"
+}
