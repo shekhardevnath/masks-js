@@ -1,2 +1,2 @@
-# practice package
-A NPM package that exports functions to mask values.
+# Practice package
+A NPM practice package
