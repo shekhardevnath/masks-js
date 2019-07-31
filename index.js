@@ -1,3 +1,3 @@
-module.export.logger =  function (message) {
+module.exports.logger =  function (message) {
 	console.log(message);
 }
