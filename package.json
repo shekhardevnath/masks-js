@@ -1,6 +1,6 @@
 {
   "name": "practice_npm_package_shekhar",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A practice NPM package.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shekhardevnath/practice_npm_package_shekhar.git#0.0.3"
+    "url": "git+https://github.com/shekhardevnath/practice_npm_package_shekhar.git#0.0.4"
   },
   "keywords": [],
   "author": "",
