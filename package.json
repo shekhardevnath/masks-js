@@ -1,6 +1,6 @@
 {
   "name": "practice_npm_package_shekhar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A practice NPM package.",
   "main": "index.js",
   "scripts": {
