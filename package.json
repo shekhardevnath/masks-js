@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shekhardevnath/practice_npm_package_shekhar.git#semvar:^1.0.0"
+    "url": "git+https://github.com/shekhardevnath/practice_npm_package_shekhar.git#semver:^1.0.0"
   },
   "keywords": [],
   "author": "",
